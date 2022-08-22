@@ -18,6 +18,7 @@ All of my projects in Front-end developing. In this organization you can check m
 | Yellow nats      | Connect to nats clusters with JS       | Javascript |[link](https://github.com/frontend-developing/yellow-nats) |
 | Assembled      | Web framework with Golang       | Golang / Javascript |[link](https://github.com/frontend-developing/assembled) |
 | Telegraph client      | Client for telegraph project       | Vue.js |[link](https://github.com/frontend-developing/telegraph-client) |
+| FirebaseRTC | Creating a WebRTC project with Firebase | Javascript / Docker | [link](https://github.com/frontend-developing/firebase-rtc) |
 
 ## Languages and Frameworks
 - HTML / HTML5

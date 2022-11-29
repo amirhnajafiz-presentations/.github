@@ -2,11 +2,27 @@
 Front-end Developing
 </h1>
 
-All of my projects in Front-end developing. In this organization you can check my front-end projects.
+Everything that I learned as a front-end developer. In this organization I put every project that worked on
+as a front-end developer. 
+
+## Languages and Frameworks
+
+- HTML / HTML5
+- CSS / CSS3
+  - Bootstrap 4
+- Javascript
+  - Ajax
+  - jQuery
+- Vue.js
+  - Vuex
+   - Vuebootstrap
+- Gatsby.js
+- GraphQL
 
 ## Table of Repositories
+
 | Project      | Description | Language | Link |
-| ----------- | ----------- | --------| ------ |
+| :---------: | ----------- | --------| ------ |
 | Fix it flex      | Build web pages with flex       | CSS |[link](https://github.com/frontend-developing/fix-it-flex) |
 | Vue base      | Learning Vue.js       | Vue.js |[link](https://github.com/frontend-developing/vue-base) |
 | Digikala Sampling      | Creating digikala main page       | HTML |[link](https://github.com/frontend-developing/digikala-sampling) |
@@ -22,16 +38,3 @@ All of my projects in Front-end developing. In this organization you can check m
 | Terminal    | Bash terminal with Vuejs and Golang | Vue.js | [link](https://github.com/frontend-developing/terminal) |
 | HTTP Client | Javascript package for making http requests | Javascript | [link](https://github.com/frontend-developing/http-client) |
 | Captain Hook | Implementing Webhooks in Javascript | Javascript | [link](https://github.com/frontend-developing/captain-hook) |
-
-## Languages and Frameworks
-- HTML / HTML5
-- CSS / CSS3
-  - Bootstrap 4
-- Javascript
-  - Ajax
-  - jQuery
-- Vue.js
-  - Vuex
-   - Vuebootstrap
-- Gatsby.js
-- GraphQL

@@ -38,3 +38,4 @@ as a front-end developer.
 | Terminal    | Bash terminal with Vuejs and Golang | Vue.js | [link](https://github.com/frontend-developing/terminal) |
 | HTTP Client | Javascript package for making http requests | Javascript | [link](https://github.com/frontend-developing/http-client) |
 | Captain Hook | Implementing Webhooks in Javascript | Javascript | [link](https://github.com/frontend-developing/captain-hook) |
+| CORS | Example of fixing CORS error | React.js / Golang | [link](https://github.com/frontend-developing/cross-origin-resource-sharing) |

@@ -1,6 +1,6 @@
-# :speaking_head: Welcome to my presentations organization
+# :circus_tent: :speaking_head: Gather around everybody
 
 <br />
 
-In here I gathered all of my presentations at universities, seminars, and festivals.
-Feel free to give comments on the presentations.
+Welcome to my public presentation organization. In here you can find all of my presentations
+that I had in university, festivals, meetings, and etc.

@@ -16,3 +16,4 @@ Feel free to open issues or contribute to any repository that you like.
 | Gitlab CI/CD | Software Engineering presentation: Gitlab CI/CD | April 2023 | Dr.Gohari |
 | Cloud | Cloud Computing presentation, Cloud | January 2023 | Dr.Javadi |
 | Docker and Containers | Cloud Computing Workshop: Docker and Containers | February 2023 | Dr.Javadi |
+| Openshift in use | Snapp! presentation | January 2024 | - |

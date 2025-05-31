@@ -17,3 +17,10 @@ Feel free to open issues or contribute to any repository that you like.
 | Cloud | Cloud Computing presentation, Cloud | January 2023 | Dr.Javadi |
 | Docker and Containers | Cloud Computing Workshop: Docker and Containers | February 2023 | Dr.Javadi |
 | Openshift in use | Snapp! presentation | January 2024 | - |
+| XV6 Installation | Operating Systems | Sep 2024 | Stony Brook University |
+| Kubernetes | Cloud Computing | May 2023 | Amirkabir University of Tehran |
+| Docker | Cloud Computing | April 2023 | Amirkabir University of Tehran |
+| Microservice |  Cloud Computing | April 2023 | Amirkabir University of Tehran |
+| Advanced Programming | Advanced Programming | March 2023 | Amirkabir University of Tehran |
+| RESTful API | Cloud Computing | February 2023 | Amirkabir University of Tehran |
+| Debezium | - | December 2022 | Snapp! Company |
